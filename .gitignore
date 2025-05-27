@@ -1,0 +1,22 @@
+/.dockerignore
+/.env
+/app.py
+/check_hash.py
+/container_content
+/deploy_instructions.md
+/Dockerfile
+/gg.py
+/huggingface_deploy.md
+/huggingface_example.py
+/king@192.168.1.177
+/mykey.pem
+/requirements.txt
+/src
+/ssh_rasb.ppk
+/streamlit-app-arm64.tar
+/tracer.txt
+/tracer_analize.py
+/tracer_data.csv
+/update_credentials.py
+/vokko-projects-df95fd45f19c.json
+/Важные данные для симуляции.csv
